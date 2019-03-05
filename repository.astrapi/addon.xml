@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.astrapi" name="astrapi Add-ons" version="1.0.0" provider-name="astrapi">
 	<extension point="xbmc.addon.repository" name="astrapi">
-      <info compressed="false">https://raw.githubusercontent.com/astrapi/repo/master/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/astrapi/repo/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/astrapi/repo/master/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/astrapi/kodi.repository/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/astrapi/kodi.repository/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/astrapi/kodi.repository/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Official Repository of Kodinerds</summary>
-		<summary lang="de">Offizielles Repository der Kodinerds</summary>
-		<description lang="en">This is the official Repository of the german Community 'Kodinerds' which you'll find at www.kodinerds.net. Most of the hosted Addons are supported by the members of the Community. Enjoy!</description>
-		<description lang="de">Das ist das offizielle Repository der deutschen Community 'Kodinerds', welche Du unter www.kodinerds.net findest. Die meisten der hier gehosteten Addons werden von den Mitgliedern der Community aktiv supported. Viel Spaß!</description>
+		<summary lang="de">Astrapi Repository</summary>
+		<description lang="de"></description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
-
